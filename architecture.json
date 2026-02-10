@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_satirical_prose_spiritual_seeking",
+  "title": "The Honey Jar of Delphi",
+  "tagline": "A skeptical philosopher and a rogue holy man walk into an oracle...",
+  "target_words": 70000,
+  "actual_words": 66717,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Comedy of Spiritual Seeking",
+    "The Bureaucracy of the Divine",
+    "Friendship as Philosophical Praxis",
+    "The Search for Authentic Awe in a World of Ritual"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Abdication of the Logistical Cornerstone",
+      "words": 2780
+    },
+    {
+      "ch": 2,
+      "title": "A Pact Sealed with Percussive Correction",
+      "words": 2779
+    },
+    {
+      "ch": 3,
+      "title": "On the Nature of Divine Whim",
+      "words": 2779
+    },
+    {
+      "ch": 4,
+      "title": "The First Theological Dispute (Concerning Lunch)",
+      "words": 2779
+    },
+    {
+      "ch": 5,
+      "title": "An Encounter with a Cynic (and His Dog)",
+      "words": 2779
+    },
+    {
+      "ch": 6,
+      "title": "The Parable of the Overpriced Inn",
+      "words": 2779
+    },
+    {
+      "ch": 7,
+      "title": "Kleon's Revelation: The God in the Ditch",
+      "words": 2779
+    },
+    {
+      "ch": 8,
+      "title": "Nikias's Rebuttal: A Syllogism on Mud",
+      "words": 2779
+    },
+    {
+      "ch": 9,
+      "title": "The Roadside Shrine of Dubious Provenance",
+      "words": 2779
+    },
+    {
+      "ch": 10,
+      "title": "A Debate on Sacrificial Goat Economics",
+      "words": 2779
+    },
+    {
+      "ch": 11,
+      "title": "The Storm, the Cave, and the Damp Heraclitus",
+      "words": 2779
+    },
+    {
+      "ch": 12,
+      "title": "Confessions by Firelight: The Failed Epiphany",
+      "words": 2779
+    },
+    {
+      "ch": 13,
+      "title": "First View of the Sanctuary: A Critique",
+      "words": 2779
+    },
+    {
+      "ch": 14,
+      "title": "The Gatekeepers: Priestly Logistics",
+      "words": 2779
+    },
+    {
+      "ch": 15,
+      "title": "The Queue for the Divine",
+      "words": 2779
+    },
+    {
+      "ch": 16,
+      "title": "The Price List of Prophecy",
+      "words": 2779
+    },
+    {
+      "ch": 17,
+      "title": "The Bribe is Presented (With Commentary)",
+      "words": 2779
+    },
+    {
+      "ch": 18,
+      "title": "In the Antechamber: Smells and Suspicions",
+      "words": 2779
+    },
+    {
+      "ch": 19,
+      "title": "The Chosen One? A Case of Mistaken Identity",
+      "words": 2779
+    },
+    {
+      "ch": 20,
+      "title": "The Oracle's Cry: A Technical Analysis",
+      "words": 2779
+    },
+    {
+      "ch": 21,
+      "title": "The Translation: A Masterpiece of Ambiguity",
+      "words": 2779
+    },
+    {
+      "ch": 22,
+      "title": "The Aftermath: What Does One Do Now?",
+      "words": 2779
+    },
+    {
+      "ch": 23,
+      "title": "The Last of the Honey",
+      "words": 2779
+    },
+    {
+      "ch": 24,
+      "title": "The Road Away from the Navel of the World",
+      "words": 2777
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Nikias and Kleon encounter a rival philosophical school on the road (Epicureans, Pythagoreans, etc.) and a debate/comedic misunderstanding ensues.",
+      "Draft the 'lost' scene where Kleon explains his most absurd previous 'divine encounter' to a deeply skeptical Nikias.",
+      "Create a side story about the priest who receives the Hymettan honey: his thoughts, his scheme to keep most of it, and his professional critique of the Pythia's performance that day.",
+      "Write an epilogue set five years later: where are Nikias and Kleon, and what mundane moment finally sparks the 'awe' Nikias was seeking?"
+    ],
+    "technical": [
+      "Build an 'Oracle Generator' that creates ambiguous, Delphic pronouncements based on user-input questions, using a large language model fine-tuned on classical texts and bureaucratic jargon.",
+      "Create a visual 'Map of the Journey' interactive website that tracks Nikias and Kleon's progress, with clickable points revealing philosophical quotes, historical context, and humorous annotations from the characters."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Lucian of Samosata",
+      "Seneca the Younger",
+      "François Rabelais",
+      "Kurt Vonnegut"
+    ]
+  },
+  "cover_prompt": "Two men—one in a philosopher's simple chiton, the other in a theatrically tattered holy robe—crouch in intense, comical scrutiny over a large, dripping honey jar, their faces a mix of skepticism and desperate hope, [Detailed Scene & Context: set within the dim, smoky cella of the Oracle of Delphi, with cracked marble columns, a tripod stool knocked over, and a bored-looking Pythia in the background rolling her eyes, surrounded by the bureaucratic clutter of votive offerings, clay tablets, and official seals], [Artistic Style & Medium: in the detailed, atmospheric, and subtly satirical style of Sir Lawrence Alma-Tadema's classical scenes, rendered in textured oil painting with visible brushwork], [Composition & Camera: book cover framing, a centered and slightly low-angle composition that elevates the humble jar, creating a dramatic and intimate scene], [Lighting & Color Palette: dramatic chiaroscuro lighting from a single shaft of divine sunlight cutting through temple smoke, illuminating the honey and the men's faces, with a rich palette of amber honey gold, deep temple marble blues, and warm earth tones contrasted by smoky shadows], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
